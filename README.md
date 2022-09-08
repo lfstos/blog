@@ -11,13 +11,16 @@
 ``cp contrib/env-sample .env``
 
 ``python -m venv .venv``
- ####linux
+ #### linux
     
 ``source .venv/bin/activate``
-####windows
+
+#### windows
+
 ``.venv\Scripts\Activate ``
 
-####Instalando dependências
+#### Instalando dependências
+
 `` pip install -r requirements.txt``
 
 #### aplicando migrações e rodando projeto
