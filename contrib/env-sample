@@ -1,0 +1,2 @@
+SECRET_KEY=Chave Secreta
+DEBUG=True
