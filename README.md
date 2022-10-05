@@ -42,3 +42,19 @@ https://docs.github.com/pt/get-started/quickstart/contributing-to-projects
 ``python manage.py migrate``
 
 ``python manage.py runserver``
+
+
+
+#### Faça suas mudanças
+Commit e push
+
+    git add .
+    git commit -m 'Commit message'
+    git push origin branch-name
+
+cria um pull request seu repositório forkado (Clica no botão New Pull Request localizado no topo do seu repositório)
+
+espere seu PR review e merge serem aprovados!
+
+### E o mais importante: Divirta-se
+
