@@ -2,7 +2,9 @@
 # Como começar a contribuir?
 
 #### Materiais de apoio:
+
 https://opensource.guide/pt/how-to-contribute/#como-submeter-uma-contribui%C3%A7%C3%A3o
+
 https://docs.github.com/pt/get-started/quickstart/contributing-to-projects
 
 ### Configurando seu ambiente de desenvolvimento
