@@ -8,14 +8,16 @@
 
 ``cd blog``
 
-``cp contrib/env-sample .env``
-
 ``python -m venv .venv``
  #### linux
+ 
+ ``cp contrib/env-sample .env``
     
 ``source .venv/bin/activate``
 
 #### windows
+
+`` você deve copiar o arquivo env-sample e colar na raiz do projeto com o nome de .env ``
 
 ``.venv\Scripts\Activate ``
 
