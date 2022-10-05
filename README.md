@@ -14,7 +14,10 @@ https://docs.github.com/pt/get-started/quickstart/contributing-to-projects
 
 ``cd blog``
 
+`` git checkout -b nome_da_nova_branch ``
+
 ``python -m venv .venv``
+
  #### linux
  
  ``cp contrib/env-sample .env``
