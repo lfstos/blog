@@ -8,7 +8,8 @@ https://opensource.guide/pt/how-to-contribute/#como-submeter-uma-contribui%C3%A7
 https://docs.github.com/pt/get-started/quickstart/contributing-to-projects
 
 ### Configurando seu ambiente de desenvolvimento
-    
+
+    Fork este repositório (Clique no botão Fork no canto superior direito desta página)
 
 ``git clone git@github.com:communitydevpro/blog.git``
 
