@@ -19,6 +19,14 @@ https://docs.github.com/pt/get-started/quickstart/contributing-to-projects
 
 ``python -m venv .venv``
 
+### Criar o ``.env`` de forma programática
+
+Vá no terminal e digite o comando abaixo:
+
+``python contrib/env_gen.py``
+
+após será criado o ``.env`` na raiz do seu projeto
+
  #### linux
  
  ``cp contrib/env-sample .env``
